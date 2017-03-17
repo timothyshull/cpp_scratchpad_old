@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.3)
+project(ch_1)
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
+
+add_executable(ch_3_ex_1 ex_1.cpp)
+add_executable(ch_3_ex_2 ex_2.cpp)
+add_executable(ch_3_ex_3 ex_3.cpp)
+add_executable(ch_3_ex_4 ex_4.cpp)
+add_executable(ch_3_ex_5 ex_5.cpp)
+add_executable(ch_3_ex_6 ex_6.cpp)
+add_executable(ch_3_ex_7 ex_7.cpp)
+add_executable(ch_3_ex_8 ex_8.cpp)
+add_executable(ch_3_ex_9 ex_9.cpp)
+add_executable(ch_3_ex_10 ex_10.cpp)
+add_executable(ch_3_ex_11 ex_11.cpp)

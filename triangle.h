@@ -1,0 +1,10 @@
+#ifndef EXPERIMENTS4_TRIANGLE_H
+#define EXPERIMENTS4_TRIANGLE_H
+
+
+class triangle {
+
+};
+
+
+#endif //EXPERIMENTS4_TRIANGLE_H

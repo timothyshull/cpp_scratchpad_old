@@ -1,0 +1,8 @@
+#ifndef BEASTIT_IO_EVENT_HANDLERS_H
+#define BEASTIT_IO_EVENT_HANDLERS_H
+
+class Event_handlers {
+
+};
+
+#endif // BEASTIT_IO_EVENT_HANDLERS_H
